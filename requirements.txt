@@ -1,0 +1,13 @@
+diffusers
+transformers
+accelerate
+safetensors
+controlnet_aux
+opencv-python-headless
+scikit-image
+pandas
+matplotlib
+PyYAML
+Pillow
+requests
+gradio
